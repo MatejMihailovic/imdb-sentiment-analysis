@@ -158,3 +158,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+mlruns/885216406951584593/58973ae3d3b54eb991419bdeadf64325/artifacts/Random Forest Classifier (TF-IDF)/model.pkl
+mlruns/885216406951584593/ca0a8ad972b9402faf4bc8678d2086bb/artifacts/Naive-Bayes (CV)/model.pkl
+mlruns/885216406951584593/81e61f5b3ed34ddc85631980c4264a68/artifacts/Naive-Bayes (TF-IDF)/model.pkl
+mlruns/501043945366265287/43295f003fe745d5abe34a58a3e0dac9/artifacts/huggingface_model/data/model.pth
